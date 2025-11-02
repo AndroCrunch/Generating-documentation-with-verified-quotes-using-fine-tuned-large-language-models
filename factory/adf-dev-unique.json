@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-unique",
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7288e97d-ca2c-4273-9cae-a2670470019a",
+		"tenantId": "f251f123-c9ce-448e-9277-34bb285911d9"
+	}
+}
